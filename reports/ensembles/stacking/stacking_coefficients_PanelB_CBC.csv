@@ -1,0 +1,5 @@
+base_model,total_abs_coefficient,panel
+logreg,2.874423486446809,PanelB_CBC
+svm,2.2668083418518785,PanelB_CBC
+rf,0.0,PanelB_CBC
+lgb,0.0,PanelB_CBC

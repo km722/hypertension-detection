@@ -1,0 +1,18 @@
+Rank,Feature,XGBoost,LightGBM,Random Forest
+1,Age,0.74,0.74,0.12
+2,BMI,0.37,0.37,0.05
+3,ACR (log),0.36,0.33,0.06
+4,Uric Acid,0.19,0.19,0.03
+5,eGFR,0.17,0.18,0.05
+6,Urinary Creatinine,0.14,0.14,0.02
+7,Race (Black),0.1,0.11,0.01
+8,Serum Creatinine,0.08,0.08,0.01
+9,Sex (Female),0.08,0.09,0.01
+10,Race (White),0.07,0.07,0.01
+11,Urinary Albumin,0.05,0.07,0.02
+12,Serum Albumin,0.04,0.04,0.0
+13,Race (Mexican),0.02,0.01,0.0
+14,BUN,0.02,0.02,0.0
+15,Race (Asian),0.01,0.01,0.0
+16,Race (Other),0.0,0.0,0.0
+17,Race (Other Hisp),0.0,0.0,0.0

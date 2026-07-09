@@ -1,0 +1,14 @@
+feature,mean_abs_shap,model,panel
+RIDAGEYR,0.9226512616725988,xgboost,PanelB_CBC
+BMXBMI,0.3855959117478041,xgboost,PanelB_CBC
+sex_female,0.1067548114953322,xgboost,PanelB_CBC
+LBXRDW,0.10658449564945452,xgboost,PanelB_CBC
+race_non_hispanic_black,0.09977020995356359,xgboost,PanelB_CBC
+LBXWBCSI,0.0828581981387452,xgboost,PanelB_CBC
+LBXHGB,0.0788633839435352,xgboost,PanelB_CBC
+LBXPLTSI,0.06568215101731219,xgboost,PanelB_CBC
+race_non_hispanic_white,0.05507200616377084,xgboost,PanelB_CBC
+race_mexican_american,0.0393717055864929,xgboost,PanelB_CBC
+race_non_hispanic_asian,0.022486719781248825,xgboost,PanelB_CBC
+race_other_race,0.0031222891110749334,xgboost,PanelB_CBC
+race_other_hispanic,0.0029825406838930204,xgboost,PanelB_CBC

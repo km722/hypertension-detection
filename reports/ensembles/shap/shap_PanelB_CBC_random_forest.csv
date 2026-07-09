@@ -1,0 +1,14 @@
+feature,mean_abs_shap,model,panel
+RIDAGEYR,0.17167849550890077,random_forest,PanelB_CBC
+BMXBMI,0.05720118273705963,random_forest,PanelB_CBC
+LBXRDW,0.026412147488023407,random_forest,PanelB_CBC
+LBXWBCSI,0.01721833720256248,random_forest,PanelB_CBC
+sex_female,0.01673423571419716,random_forest,PanelB_CBC
+race_non_hispanic_black,0.014592407321292196,random_forest,PanelB_CBC
+LBXHGB,0.01294593217217048,random_forest,PanelB_CBC
+LBXPLTSI,0.007985864362791906,random_forest,PanelB_CBC
+race_non_hispanic_white,0.004809557465893,random_forest,PanelB_CBC
+race_mexican_american,0.0030423390606736096,random_forest,PanelB_CBC
+race_non_hispanic_asian,0.0014185472056322615,random_forest,PanelB_CBC
+race_other_hispanic,0.0011186785930889507,random_forest,PanelB_CBC
+race_other_race,0.0006430670706095998,random_forest,PanelB_CBC

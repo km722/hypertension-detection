@@ -1,0 +1,5 @@
+base_model,total_abs_coefficient,panel
+logreg,2.8720729384732047,PanelA_RenalDemo
+svm,2.3010996499046987,PanelA_RenalDemo
+rf,0.0,PanelA_RenalDemo
+lgb,0.0,PanelA_RenalDemo

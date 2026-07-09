@@ -1,0 +1,14 @@
+Rank,Feature,XGBoost,LightGBM,Random Forest
+1,Age,0.92,0.89,0.17
+2,BMI,0.39,0.36,0.06
+3,Sex (Female),0.11,0.11,0.02
+4,RDW,0.11,0.1,0.03
+5,Race (Black),0.1,0.08,0.01
+6,WBC,0.08,0.07,0.02
+7,Haemoglobin,0.08,0.07,0.01
+8,Platelet Count,0.07,0.05,0.01
+9,Race (White),0.06,0.05,0.0
+10,Race (Mexican),0.04,0.04,0.0
+11,Race (Asian),0.02,0.02,0.0
+12,Race (Other),0.0,0.0,0.0
+13,Race (Other Hisp),0.0,0.0,0.0

@@ -1,0 +1,5 @@
+base_model_feature,coefficient,abs_coefficient,panel
+svm_prob1,1.972563330014459,1.972563330014459,PanelA_RenalDemo
+logreg_prob0,1.668204327401752,1.668204327401752,PanelA_RenalDemo
+logreg_prob1,1.2038686110714527,1.2038686110714527,PanelA_RenalDemo
+svm_prob0,0.32853631989023996,0.32853631989023996,PanelA_RenalDemo

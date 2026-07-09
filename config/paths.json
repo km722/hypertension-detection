@@ -1,0 +1,30 @@
+{
+  "2017_2018": {
+    "folder": "/Users/khaledmazahreh/Documents/hypertension_trial/data/raw/nhanes_2017_2018",
+    "files": {
+      "DEMO": "DEMO_J.XPT",
+      "BPQ": "BPQ_J.XPT",
+      "BPX": "BPX_J.XPT",
+      "CBC": "CBC_J.XPT",
+      "BIOPRO": "BIOPRO_J.XPT",
+      "ALB_CR": "ALB_CR_J.XPT",
+      "GHB": "GHB_J.XPT",
+      "GLU": "GLU_J.XPT",
+      "BMX": "BMX_J.XPT"
+    }
+  },
+  "2015_2016": {
+    "folder": "/Users/khaledmazahreh/Documents/hypertension_trial/data/raw/nhanes_2015_2016",
+    "files": {
+      "DEMO": "DEMO_I.XPT",
+      "BPQ": "BPQ_I.XPT",
+      "BPX": "BPX_I.XPT",
+      "CBC": "CBC_I.XPT",
+      "BIOPRO": "BIOPRO_I.XPT",
+      "ALB_CR": "ALB_CR_I.XPT",
+      "GHB": "GHB_I.XPT",
+      "GLU": "GLU_I.XPT",
+      "BMX": "BMX_I.XPT"
+    }
+  }
+}

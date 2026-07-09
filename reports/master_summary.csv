@@ -1,0 +1,4 @@
+panel,best_model,best_model_type,best_tuning,best_auc,best_brier,best_baseline,best_baseline_auc,best_ensemble,best_ensemble_auc
+PanelA_RenalDemo,stacking,ensemble,tuned,0.8213638262930043,0.166420746100242,svm_linear,0.8185374248606964,stacking,0.8213638262930043
+PanelB_CBC,xgboost,ensemble,tuned,0.8090959217837205,0.1706156581640243,logreg,0.8046707027458738,xgboost,0.8090959217837205
+PanelC_Combined,stacking,ensemble,tuned,0.8229671066376467,0.165156837084706,svm_linear,0.8194110473618931,stacking,0.8229671066376467

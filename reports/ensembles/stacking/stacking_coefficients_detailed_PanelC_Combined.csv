@@ -1,0 +1,5 @@
+base_model_feature,coefficient,abs_coefficient,panel
+svm_prob1,1.9851320275408153,1.9851320275408153,PanelC_Combined
+logreg_prob0,1.5242954510048263,1.5242954510048263,PanelC_Combined
+logreg_prob1,1.251400925091562,1.251400925091562,PanelC_Combined
+svm_prob0,0.4828108267025466,0.4828108267025466,PanelC_Combined
